@@ -16,7 +16,7 @@ namespace Lab2_OOP
         }
         public Test()
         {
-            this.subject = "Операционные системы";
+            this.subject = "Линал.";
             this.pass = true;
         }
         public override string ToString()

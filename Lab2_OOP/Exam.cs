@@ -19,7 +19,7 @@ namespace Lab2_OOP
         {
             this.subject = "English";
             this.grade = 4;
-            this.examDate = new DateTime(2022, 01, 01);
+            this.examDate = new DateTime(2022, 09, 06);
         }
         public override string ToString()
         {

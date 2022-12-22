@@ -27,15 +27,17 @@ namespace Lab2_OOP
             get => name;
             set => name = value;
         }
-        public string Surname
-        {
-            get => surname;
-            set => surname = value;
-        }
+      
         public DateTime BirthDate
         {
             get => birthDate;
             set => birthDate = value;
+        }
+
+        public string Surname
+        {
+            get => surname;
+            set => surname = value;
         }
         public int Value { get; set; }
         public override string ToString()
@@ -64,15 +66,17 @@ namespace Lab2_OOP
             return !p1.Equals(p2);
         }
 
-        public override int GetHashCode()
-        {
-            return name.GetHashCode() + surname.GetHashCode() + birthDate.GetHashCode();
-        }
+     
 
         public virtual object DeepCopy()
         {
             Person other = (Person)this.MemberwiseClone();
             return other;
+        }
+
+        public override int GetHashCode()
+        {
+            return name.GetHashCode() + surname.GetHashCode() + birthDate.GetHashCode();
         }
         interface IDateANdCopy
         {
