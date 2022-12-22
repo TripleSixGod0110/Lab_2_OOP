@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Lab2_OOP\Lab2_OOP\bin\Debug\netcoreapp3.1\Lab2_OOP.exe
+C:\Users\admin\source\repos\Lab2_OOP\Lab2_OOP\bin\Debug\netcoreapp3.1\Lab2_OOP.deps.json
+C:\Users\admin\source\repos\Lab2_OOP\Lab2_OOP\bin\Debug\netcoreapp3.1\Lab2_OOP.runtimeconfig.json
+C:\Users\admin\source\repos\Lab2_OOP\Lab2_OOP\bin\Debug\netcoreapp3.1\Lab2_OOP.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Lab2_OOP\Lab2_OOP\bin\Debug\netcoreapp3.1\Lab2_OOP.dll
+C:\Users\admin\source\repos\Lab2_OOP\Lab2_OOP\bin\Debug\netcoreapp3.1\Lab2_OOP.pdb
+C:\Users\admin\source\repos\Lab2_OOP\Lab2_OOP\obj\Debug\netcoreapp3.1\Lab2_OOP.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Lab2_OOP\Lab2_OOP\obj\Debug\netcoreapp3.1\Lab2_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Lab2_OOP\Lab2_OOP\obj\Debug\netcoreapp3.1\Lab2_OOP.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Lab2_OOP\Lab2_OOP\obj\Debug\netcoreapp3.1\Lab2_OOP.AssemblyInfo.cs
+C:\Users\admin\source\repos\Lab2_OOP\Lab2_OOP\obj\Debug\netcoreapp3.1\Lab2_OOP.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Lab2_OOP\Lab2_OOP\obj\Debug\netcoreapp3.1\Lab2_OOP.dll
+C:\Users\admin\source\repos\Lab2_OOP\Lab2_OOP\obj\Debug\netcoreapp3.1\Lab2_OOP.pdb
+C:\Users\admin\source\repos\Lab2_OOP\Lab2_OOP\obj\Debug\netcoreapp3.1\Lab2_OOP.genruntimeconfig.cache
